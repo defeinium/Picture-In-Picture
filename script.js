@@ -14,7 +14,7 @@ async function selectMediaStream() {
     }
 }
 
-// add event listener on click.
+// add event listener on click...
 button.addEventListener('click', async () => {
     button.disabled = true;
     //start picture in picture
